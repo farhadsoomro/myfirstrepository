@@ -1,0 +1,1 @@
+# We are going to merge the feature branch with the stage branch.
